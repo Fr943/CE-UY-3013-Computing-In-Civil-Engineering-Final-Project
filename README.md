@@ -593,7 +593,7 @@ side of Table A-14. I find the column for Bar number #10 and check the number.
 The number at the intersection is 12. This number is the max number of bars that can fit in the column.
 
 If the bars do not fit in the core, the program will prompt the user to resize their reinforcement bars by selecting different bar size and number from Table A-2.
-The user must still select a combination that results in a steel area larger than the 13.55 that was displayed above. If the user cannot find a combination that works after 5 attempts, the program will end which forces the user to start the program over from the beginning. This will allow the user to go through the program again and select a larger core size and area from Table A-2.
+The user must still select a combination that results in a steel area larger than the 14.13 that was displayed above. If the user cannot find a combination that works after 5 attempts, the program will end which forces the user to start the program over from the beginning. This will allow the user to go through the program again and select a larger core size and area from Table A-2.
 
 The last input is the size of the reinforcing bars. Generally #3 bars are used for lateral reinforcement, but sizes 4 and 5 can be used too. This example uses size 3 lateral reinforcing bars.
 
