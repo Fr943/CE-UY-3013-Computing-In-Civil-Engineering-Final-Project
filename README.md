@@ -44,9 +44,9 @@ To use the program, you can download this repository and use it in your preferre
 
 Alternatively, you can open up the source file and open up the original file location on google chrome. I have made the source file and the examples shown below available to view for anyone with a link.
 
-##Examples of how to use the Program
+## Examples of how to use the Program
 
-SQUARE COLUMN EXAMPLE
+*SQUARE COLUMN EXAMPLE*
 
 This part of the code is all the initial inputs
 
