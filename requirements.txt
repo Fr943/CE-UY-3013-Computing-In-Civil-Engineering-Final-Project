@@ -1,0 +1,3 @@
+#The only requirement is to run the program on python 3.
+#The version in which this code was made is Python 3.6.9
+#There are no external libraries to install
