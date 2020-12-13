@@ -46,7 +46,7 @@ Alternatively, you can open up the source file and open up the original file loc
 
 ##Examples of how to use the Program
 
-#SQUARE COLUMN EXAMPLE
+SQUARE COLUMN EXAMPLE
 
 This part of the code is all the initial inputs
 
@@ -395,3 +395,5 @@ with 18.0 inch spacing on center.
 The column contains 16
 size #9 bars.
 ```
+
+This is the end of the square column example.
